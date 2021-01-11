@@ -8,7 +8,7 @@ Then run the following commands
 **npm**
 
 ```bash
-git clone https://github.com/magidmroueh/payment-history.git
+git clone https://github.com/magidmroueh/payments-history.git
 cd payment-history
 npm install
 ```
