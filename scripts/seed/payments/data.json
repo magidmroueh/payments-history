@@ -1,0 +1,122 @@
+[
+	{
+		"contract_id": 17689,
+		"description": "Rent payment",
+		"value": 100,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17689,
+		"description": "Rent to be paid",
+		"value": -100,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:09.708Z",
+		"updated_at": "2016-12-09T12:57:09.709Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17689,
+		"description": "Rent payment",
+		"value": 50,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17689,
+		"description": "Rent to be paid",
+		"value": -50,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17690,
+		"description": "Rent payment",
+		"value": 200,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17690,
+		"description": "Rent to be paid",
+		"value": -200,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17690,
+		"description": "Rent payment",
+		"value": 100,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17690,
+		"description": "Rent to be paid",
+		"value": -100,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17691,
+		"description": "Rent payment",
+		"value": 300,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17691,
+		"description": "Rent to be paid",
+		"value": -300,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17691,
+		"description": "Rent payment",
+		"value": 100,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	},
+	{
+		"contract_id": 17691,
+		"description": "Rent to be paid",
+		"value": -100,
+		"time": "2016-12-09T00:00:00.00Z",
+		"is_imported": false,
+		"created_at": "2016-12-09T12:57:31.393Z",
+		"updated_at": "2016-12-09T12:57:31.393Z",
+		"is_deleted": false
+	}
+]
