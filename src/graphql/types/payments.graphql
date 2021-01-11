@@ -1,0 +1,35 @@
+type ResponsePayments {
+  status: String!
+  message: String!
+  items: [PaymentItem]
+  sum: Float
+}
+
+type PaymentItem {
+  id: ID!
+  contractId: Int
+  description: String!
+  value: Float!
+  time: Date!
+  isImported: Boolean!
+  createdAt: Date!
+  updatedAt: Date!
+  isDeleted: Boolean!
+}
+
+input InputPaymentItem {
+  contractId: Int
+  description: String
+  value: Float,
+  time: String
+}
+
+type Query {
+  PaymentItem(contractId: Int, startDate: String, endDate: String): ResponsePayments!
+}
+
+type Mutation {
+  createPaymentItem(item: InputPaymentItem): ResponsePayments!
+  updatePaymentItem(id: ID!, item: InputPaymentItem!): ResponsePayments!
+  deletePaymentItem(id: ID!): ResponsePayments!
+}
