@@ -33,7 +33,7 @@ app.set('port', process.env.PORT || 4000);
 app.set('env', process.env.NODE_ENV || 'development');
 
 // get
-app.get('/healthz', function (req, res) {
+app.get('/health', function (req, res) {
   res.send('OK');
 });
 
