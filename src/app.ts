@@ -1,7 +1,4 @@
 import express from 'express';
-import compression from 'compression';
-import bodyParser from 'body-parser';
-import cookieParser from 'cookie-parser';
 
 import { ApolloServer, gql } from 'apollo-server-express';
 import { importSchema } from 'graphql-import';
@@ -36,9 +33,3 @@ app.set('env', process.env.NODE_ENV || 'development');
 app.get('/health', function (req, res) {
   res.send('OK');
 });
-
-// use
-app.use(compression());
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(cookieParser());
